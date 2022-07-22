@@ -2,8 +2,8 @@
 ## TODO: project description
 
 - Login
-- List of available Crabon certificates(no owner)
-- List of owned Crabon certificates(owned by current user)
+- List of available carbon certificates(no owner)
+- List of owned carbon certificates(owned by current user)
 - Transfer carbon certificate to another user(based on the User ID parameter)
 
 ## Installation
@@ -35,9 +35,9 @@ TODO: instructions
 4) verify second User for transfer certificate
 5) User signin
 6) Second User Signin to transfer carbon certificate
-7) Create Carbon Certificate
-8) Available Carbon Certificate
-9) Owned Carbon Certificate
+7) Create carbon Certificate
+8) Available carbon Certificate
+9) Owned carbon Certificate
 10) Seed
 11) Transfer Certificate
 
